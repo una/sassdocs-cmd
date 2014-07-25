@@ -1,0 +1,38 @@
+{
+  "name": "una-cmdr",
+  "description": "A command line tool for fun :)",
+  "version": "0.1.0",
+  "homepage": "https://github.com/una/una-cmdr",
+  "author": {
+    "name": "Una Kravets",
+    "email": "una.kravets@gmail.com",
+    "url": "unakravets.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/una/una-cmdr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/una/una-cmdr/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/una/una-cmdr/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/una-cmdr",
+  "engines": {
+    "node": "0.10.29"
+  },
+  "scripts": {
+    "test": "grunt nodeunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": []
+}
