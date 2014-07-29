@@ -1,4 +1,4 @@
-# una-cmdr
+# Sass Me!
 
 A command line tool for fun :)
 
