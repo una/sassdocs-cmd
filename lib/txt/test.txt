@@ -1,0 +1,10 @@
+Variables: $
+
+The most straightforward way to use SassScript is to use variables. Variables begin with dollar signs, and are set like CSS properties:
+
+$width: 5em;
+You can then refer to them in properties:
+
+#main {
+  width: $width;
+}

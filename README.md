@@ -1,13 +1,13 @@
 # Sass Me!
 
-A command line tool for fun :)
+A command line tool for Sass Docs :)
 
 ## Getting Started
 Install the module with: `npm install sassme`
 
 ```javascript
 var sassme = require('sassme');
-sassme.awesome(); // "awesome"
+sassme test;
 ```
 
 ## Documentation
