@@ -3,11 +3,11 @@
 A command line tool for fun :)
 
 ## Getting Started
-Install the module with: `npm install una-cmdr`
+Install the module with: `npm install sassme`
 
 ```javascript
-var una_cmdr = require('una-cmdr');
-una_cmdr.awesome(); // "awesome"
+var sassme = require('sassme');
+sassme.awesome(); // "awesome"
 ```
 
 ## Documentation

@@ -1,8 +1,8 @@
 {
-  "name": "una-cmdr",
+  "name": "sassme",
   "description": "A command line tool for fun :)",
   "version": "0.1.0",
-  "homepage": "https://github.com/una/una-cmdr",
+  "homepage": "https://github.com/una/sassme",
   "author": {
     "name": "Una Kravets",
     "email": "una.kravets@gmail.com",
@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/una/una-cmdr.git"
+    "url": "git://github.com/una/sassme.git"
   },
   "bugs": {
-    "url": "https://github.com/una/una-cmdr/issues"
+    "url": "https://github.com/una/sassme/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/una/una-cmdr/blob/master/LICENSE-MIT"
+      "url": "https://github.com/una/sassme/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/una-cmdr",
+  "main": "lib/sassme",
   "engines": {
     "node": "0.10.29"
   },
