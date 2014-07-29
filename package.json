@@ -34,5 +34,9 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.5"
   },
-  "keywords": []
+  "keywords": [],
+  "preferGlobal": "true",
+  "bin": {
+      "una-cmdr" : "lib/una-cmdr.js"
+  }
 }
