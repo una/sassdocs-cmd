@@ -37,6 +37,6 @@
   "keywords": [],
   "preferGlobal": "true",
   "bin": {
-      "una-cmdr" : "lib/una-cmdr.js"
+      "sassme" : "lib/sassme.js"
   }
 }
