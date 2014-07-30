@@ -11,8 +11,10 @@ sudo npm install sassme -g
 ```
 
 ## Examples
+
 ```
-➜  sassme-cmdline git:(master) ✗ sassme variables
+➜  sassme variables
+
 Variables: $
 
 The most straightforward way to use SassScript is to use variables. Variables begin with dollar signs, and are set like CSS properties:
