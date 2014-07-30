@@ -12,25 +12,7 @@ sudo npm install sassme -g
 
 ## Examples
 
-```
-➜  sassme variables
-
-Variables: $
-
-The most straightforward way to use SassScript is to use variables. Variables begin with dollar signs, and are set like CSS properties:
-
---------------------------------------------------------
-$width: 5em;
---------------------------------------------------------
-
-You can then refer to them in properties:
-
---------------------------------------------------------
-#main {
-  width: $width;
-}
---------------------------------------------------------
-```
+![screenshot of commant line](https://raw.githubusercontent.com/una/sassme/master/sassme-screen.png);
 
 ## Contributing
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
