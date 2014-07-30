@@ -1,7 +1,7 @@
 {
   "name": "sassme",
   "description": "A command line tool for Sass documentation!",
-  "version": "0.1.01",
+  "version": "0.0.1",
   "homepage": "https://github.com/una/sassme",
   "author": {
     "name": "Una Kravets",
