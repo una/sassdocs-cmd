@@ -3,15 +3,15 @@
 A command line tool for Sass Docs :)
 
 ## Getting Started
-Install the module with: `npm install sassme`
 
-```javascript
-var sassme = require('sassme');
-sassme test;
+To install sassme everywhere, simply type:
+
+```
+sudo npm install sassme -g
 ```
 
 ## Documentation
-_(Coming soon)_
+to install 
 
 ## Examples
 _(Coming soon)_
