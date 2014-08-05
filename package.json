@@ -34,7 +34,7 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.5",
     "commander": "~2.3.0",
-    "open": "~0.0.5",
+    "open": "~0.0.5"
   },
   "keywords": [],
   "preferGlobal": "true",
