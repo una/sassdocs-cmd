@@ -24,58 +24,58 @@ Usage: sassme [options]
 Options:
 
   -h, --help           output usage information
-  <br />-V, --version           &nbsp;&nbsp; output the version number
-  <br />open                    &nbsp;&nbsp; Open the Sass Docs Website
-  <br />nesting                 &nbsp;&nbsp; Simple example of nesting
-  <br />nested-properties       &nbsp;&nbsp; Nested properties
-  <br />nested-rules            &nbsp;&nbsp; Nested rules
-  <br />parent                  &nbsp;&nbsp; Parent Selectors: &
-  <br />placeholders            &nbsp;&nbsp; Placeholder Selectors: %meow
-  <br />comments                &nbsp;&nbsp; Comments: /* */ and //
-  <br />sass-shell              &nbsp;&nbsp; SassScript Shell
-  <br />variables               &nbsp;&nbsp; What are variables
-  <br />datatypes               &nbsp;&nbsp; Overview of 6 Sass data types
-  <br />string                  &nbsp;&nbsp; String data type
-  <br />map                     &nbsp;&nbsp; Map data type
-  <br />list                    &nbsp;&nbsp; List data type
-  <br />color                   &nbsp;&nbsp; Color data type
-  <br />operation               &nbsp;&nbsp; Sass operations overview
-  <br />color-operation         &nbsp;&nbsp; Color operations
-  <br />number-operation        &nbsp;&nbsp; Number operations
-  <br />string-operation        &nbsp;&nbsp; String operations
-  <br />list-operation          &nbsp;&nbsp; List operations
-  <br />bool-operation          &nbsp;&nbsp; Boolean operations
-  <br />parenthesis             &nbsp;&nbsp; These things: ()
-  <br />functions               &nbsp;&nbsp; Cool Sass functions
-  <br />interpolation           &nbsp;&nbsp; #{} interpolation syntax
-  <br />defaults                &nbsp;&nbsp; Variable defaults: !default
-  <br />@rules                  &nbsp;&nbsp; A list of Sass @rules
-  <br />@import                 &nbsp;&nbsp; Import Scss/Sass files
-  <br />@import-partials        &nbsp;&nbsp; Files prepended with: "_"
-  <br />@import-nested          &nbsp;&nbsp; Import within CSS and @media rules
-  <br />@media                  &nbsp;&nbsp; @media directives
-  <br />@extend                 &nbsp;&nbsp; @extending styles
-  <br />@extend-only            &nbsp;&nbsp; @extend-only selectors
-  <br />@extend-multi           &nbsp;&nbsp; Using multiple extends
-  <br />@extend-optional        &nbsp;&nbsp; @extend !optional flag
-  <br />@extend-directive       &nbsp;&nbsp; Using @extends in directives
-  <br />selector-sequence       &nbsp;&nbsp; Selector sequences
-  <br />@at-root                &nbsp;&nbsp; @at-root directive
-  <br />@debug                  &nbsp;&nbsp; @debug directive
-  <br />@warn                   &nbsp;&nbsp; @warn directive
-  <br />if()                    &nbsp;&nbsp; if() function
-  <br />@if                     &nbsp;&nbsp; @if directive
-  <br />@each                   &nbsp;&nbsp; @each directive
-  <br />@for                    &nbsp;&nbsp; @for directive
-  <br />@while                  &nbsp;&nbsp; @while directive
-  <br />@mixin                  &nbsp;&nbsp; Defining and using mixins
-  <br />function-directives     &nbsp;&nbsp; Define your own Sass functions
-  <br />output-style            &nbsp;&nbsp; Output styles overview
-  <br />:nested                 &nbsp;&nbsp; Nested output
-  <br />:expanded               &nbsp;&nbsp; Expanded output
-  <br />:compact                &nbsp;&nbsp; Compact output
-  <br />:compressed             &nbsp;&nbsp; Compressed output
-  <br />extending-sass          &nbsp;&nbsp; Taking it up a notch
+  <br />-V, --version           | output the version number
+  <br />open                    | Open the Sass Docs Website
+  <br />nesting                 | Simple example of nesting
+  <br />nested-properties       | Nested properties
+  <br />nested-rules            | Nested rules
+  <br />parent                  | Parent Selectors: &
+  <br />placeholders            | Placeholder Selectors: %meow
+  <br />comments                | Comments: /* */ and //
+  <br />sass-shell              | SassScript Shell
+  <br />variables               | What are variables
+  <br />datatypes               | Overview of 6 Sass data types
+  <br />string                  | String data type
+  <br />map                     | Map data type
+  <br />list                    | List data type
+  <br />color                   | Color data type
+  <br />operation               | Sass operations overview
+  <br />color-operation         | Color operations
+  <br />number-operation        | Number operations
+  <br />string-operation        | String operations
+  <br />list-operation          | List operations
+  <br />bool-operation          | Boolean operations
+  <br />parenthesis             | These things: ()
+  <br />functions               | Cool Sass functions
+  <br />interpolation           | #{} interpolation syntax
+  <br />defaults                | Variable defaults: !default
+  <br />@rules                  | A list of Sass @rules
+  <br />@import                 | Import Scss/Sass files
+  <br />@import-partials        | Files prepended with: "_"
+  <br />@import-nested          | Import within CSS and @media rules
+  <br />@media                  | @media directives
+  <br />@extend                 | @extending styles
+  <br />@extend-only            | @extend-only selectors
+  <br />@extend-multi           | Using multiple extends
+  <br />@extend-optional        | @extend !optional flag
+  <br />@extend-directive       | Using @extends in directives
+  <br />selector-sequence       | Selector sequences
+  <br />@at-root                | @at-root directive
+  <br />@debug                  | @debug directive
+  <br />@warn                   | @warn directive
+  <br />if()                    | if() function
+  <br />@if                     | @if directive
+  <br />@each                   | @each directive
+  <br />@for                    | @for directive
+  <br />@while                  | @while directive
+  <br />@mixin                  | Defining and using mixins
+  <br />function-directives     | Define your own Sass functions
+  <br />output-style            | Output styles overview
+  <br />:nested                 | Nested output
+  <br />:expanded               | Expanded output
+  <br />:compact                | Compact output
+  <br />:compressed             | Compressed output
+  <br />extending-sass          | Taking it up a notch
 
 ## Release History
 _(Nothing yet)_
