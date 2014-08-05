@@ -22,60 +22,60 @@ sassme --help
 Usage: sassme [options]
 
 Options:
- |------------------------|:---------------------------------:|
- | -h, --help             |	output usage information |
- |-V, --version           | output the version number |
- |open                    | Open the Sass Docs Website |
- |nesting                 | Simple example of nesting |
- |nested-properties       | Nested properties |
- |nested-rules            | Nested rules |
- |parent                  | Parent Selectors: & |
- |placeholders            | Placeholder Selectors: %meow |
- |comments                | Comments: /* */ and // |
- |sass-shell              | SassScript Shell |
- |variables               | What are variables |
- |datatypes               | Overview of 6 Sass data types |
- |string                  | String data type |
- |map                     | Map data type |
- |list                    | List data type |
- |color                   | Color data type |
- |operation               | Sass operations overview |
- |color-operation         | Color operations |
- |number-operation        | Number operations |
- |string-operation        | String operations |
- |list-operation          | List operations |
- |bool-operation          | Boolean operations |
- |parenthesis             | These things: () |
- |functions               | Cool Sass functions |
- |interpolation           | #{} interpolation syntax |
- |defaults                | Variable defaults: !default |
- |@rules                  | A list of Sass @rules |
- |@import                 | Import Scss/Sass files |
- |@import-partials        | Files prepended with: "_" |
- |@import-nested          | Import within CSS and @media rules |
- |@media                  | @media directives |
- |@extend                 | @extending styles |
- |@extend-only            | @extend-only selectors |
- |@extend-multi           | Using multiple extends |
- |@extend-optional        | @extend !optional flag |
- |@extend-directive       | Using @extends in directives |
- |selector-sequence       | Selector sequences |
- |@at-root                | @at-root directive |
- |@debug                  | @debug directive |
- |@warn                   | @warn directive |
- |if()                    | if() function |
- |@if                     | @if directive |
- |@each                   | @each directive |
- |@for                    | @for directive |
- |@while                  | @while directive |
- |@mixin                  | Defining and using mixins |
- |function-directives     | Define your own Sass functions |
- |output-style            | Output styles overview |
- |:nested                 | Nested output |
- |:expanded               | Expanded output |
- |:compact                | Compact output |
- |:compressed             | Compressed output |
- |extending-sass          | Taking it up a notch |
+
+  -h, --help 
+  <br />-V, --version
+  <br />open
+  <br />nesting 
+  <br />nested-properties
+  <br />nested-rules 
+  <br />parent    
+  <br />placeholders   
+  <br />comments    
+  <br />sass-shell          
+  <br />variables      
+  <br />datatypes       
+  <br />string  
+  <br />map               
+  <br />list           
+  <br />color           
+  <br />operation          
+  <br />color-operation    
+  <br />number-operation   
+  <br />string-operation 
+  <br />list-operation    
+  <br />bool-operation  
+  <br />parenthesis      
+  <br />functions     
+  <br />interpolation   
+  <br />defaults 
+  <br />@rules  
+  <br />@import   
+  <br />@import-partials 
+  <br />@import-nested  
+  <br />@media  
+  <br />@extend 
+  <br />@extend-only 
+  <br />@extend-multi  
+  <br />@extend-optional 
+  <br />@extend-directive
+  <br />selector-sequence  
+  <br />@at-root  
+  <br />@debug      
+  <br />@warn       
+  <br />if()    
+  <br />@if   
+  <br />@each  
+  <br />@for 
+  <br />@while   
+  <br />@mixin  
+  <br />function-directives 
+  <br />output-style  
+  <br />:nested      
+  <br />:expanded  
+  <br />:compact    
+  <br />:compressed  
+  <br />extending-sass 
 
 ## Release History
 _(Nothing yet)_
